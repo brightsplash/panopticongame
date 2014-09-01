@@ -94,27 +94,27 @@ If someone gives you control of their data and figure – you need to put the to
 Player Missions
 ===============
 
-Bad Hacker
+**Bad Hacker**
 Mission: Steal 2 identity crystals or be first to build a 10 block tower or 
 3 ability cards: Take 1 other player to give you 1 personal data block. 
 
-Good Hacker
+**Good Hacker**
 Mission: Be first to build 10 block tower or wining back 1 stolen id crystal 
 3 ability cards: can take back stolen personal data, and return it to their rightful owner (Sabotages Bad Hacker from winning). 
 
-Anti-Virus
+**Anti-Virus**
 Mission: Stop data theft and build 10 block tower 
 3 ability cards: Prevent a personal data block attack (can play at any time) 
 
-Trojan
+**Trojan**
 Mission: Steal 2 identity crystals or be first to build 10 block tower. 
 3 ability cards: when a personal data block is taken by a player – you take one too (can play at any time) 
 
-Activist
+**Activist**
 Mission: To build 5 block with another player who’s mission is also to get 5 blocks 
 3 ability cards: Take control of bad hacker for 1 turn (play on your turn) 
 
-Student
+**Student**
 Mission: Mission: To build 5 block with another player who also gets 5 blocks 
 3 ability cards: Move 2 data blocks from anywhere in the board to new locations (play on your turn) 
 
