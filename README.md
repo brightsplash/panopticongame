@@ -5,7 +5,7 @@ Panopticon v2 – Jan 2014
 
 Last updated by Maf'j Alvarez on February 17th 2014
 
-![This game is under creative commons attribution, share-alike licence](http://creativecommons.org/licenses/by-sa/4.0/)
+[This game is under creative commons attribution, share-alike licence](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Description
 ===========
